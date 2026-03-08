@@ -16,15 +16,6 @@ Built with <strong>Streamlit, LangChain, and IBM watsonx</strong>, this tool con
 
 ---
 
-# 🎥 Live Demo
-
-<p align="center">
-<a href="https://youtu.be/fVyv2aZD5vo">
-<img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube"/>
-</a>
-</p>
-
----
 
 # 📸 Application Screenshots
 
